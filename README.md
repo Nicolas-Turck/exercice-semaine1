@@ -2,4 +2,6 @@
 
 exercise 1: "Hello World"
 
-exercice 2 "calculs divers"
+exercise 2: "various calculations"
+
+exercise 3: "communicate with the computeur"

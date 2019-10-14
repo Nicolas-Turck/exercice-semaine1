@@ -6,8 +6,8 @@ print("Hello World")#display Hello World
 linux = "Hello World" #i declare a variable
 print(linux)#print value of Linux
 
-#exercise 2 : calculs divers
-print("\nexercise 2: calculs divers\n")
+#exercise 2 : various calculations
+print("\nexercise 2: various calculations\n")
 
 print(3*3)#display result
 a = 12
@@ -21,3 +21,10 @@ except:
 print(4+9+78)#display result
 print(12-7)#display result
 print(5e4) #display result
+
+#exercise 3 : communicate with the computeur
+
+print("\nexercise 3: communicate with the computeur\n")
+
+name = input ("how are you ?:")#i declare a variable to name and display a question
+print("hello " +name)#display welcomme message
