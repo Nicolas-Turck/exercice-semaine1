@@ -9,3 +9,5 @@ exercise 3: "communicate with the computeur"
 exercice 4: "name and first-name"
 
 exercice 5: "from characters to numbers"
+
+exercice 6: "lowercase and uppercase"

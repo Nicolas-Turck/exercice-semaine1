@@ -39,8 +39,19 @@ print("bonjour {} {}".format(name ,first_name))#display 'hello and variable name
 
 #exercise 5: from characters to numbers
 
-print("\nexercise 5:from characters to numbers\n")
+print("\nexercise 5: from characters to numbers\n")
 
 myNumber = "123"
 myNumber = int(myNumber) #declare a variable myNumber
 print(type(myNumber))#i display class od myNumber
+
+#exercise 6: uppercase and lowercase
+
+print("\nexercise 6 : uppercase lowercase\n")
+
+text = input("enter a text :")#declare variable text and ask question enter a text
+print(text.upper())#display text at uppercase
+
+text = input("enter a text :")#declare variable and ask question enter a text
+print(text.lower())
+#display text at lowercase
