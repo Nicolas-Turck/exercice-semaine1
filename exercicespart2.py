@@ -20,3 +20,15 @@ print(a - b)
 c = input("how old are your neighboor:")
 c = int(c)
 print(a - b + c)
+
+#exercise 3: problem of shoes
+
+print("\nexercise 3: problem of shoes\n")
+
+prix1 = 70
+prix2 = 59
+prix3 =20
+price=(prix1+prix2+prix3)
+prix4=(price*20/100)
+sommes_achats=(price-prix4)
+print(sommes_achats)

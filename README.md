@@ -7,14 +7,16 @@ exercise 2: "various calculations"
 
 exercise 3: "communicate with the computeur"
 
-exercice 4: "name and first-name"
+exercise 4: "name and first-name"
 
-exercice 5: "from characters to numbers"
+exercise 5: "from characters to numbers"
 
-exercice 6: "lowercase and uppercase"
+exercise 6: "lowercase and uppercase"
 
 part 2:
 
-exercices : "False or True"
+exercise : "False or True"
 
-exercices 2: "calculate my age"
+exercise 2: "calculate my age"
+
+exercise 3: "problem of shoes"
