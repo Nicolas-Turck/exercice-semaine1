@@ -1,4 +1,5 @@
 # exercises of one week
+part1:
 
 exercise 1: "Hello World"
 
@@ -11,3 +12,7 @@ exercice 4: "name and first-name"
 exercice 5: "from characters to numbers"
 
 exercice 6: "lowercase and uppercase"
+
+part 2:
+
+exercices : "False or True"
