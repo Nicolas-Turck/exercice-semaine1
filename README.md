@@ -20,3 +20,5 @@ exercise : "False or True"
 exercise 2: "calculate my age"
 
 exercise 3: "problem of shoes"
+
+exercise 4: "python calculator"
