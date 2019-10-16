@@ -40,3 +40,21 @@ print("\nexercise 4: python calculator\n")
 a = float(input("enter a number:"))#i declare a varible to a number
 b = float(input("enter a number:"))#i declare a variable to a number
 print(a+b)#display result a + b
+
+#exercice 5 : work with property
+
+print("\nexercise 5: work with property\n")
+
+a = input("what is your firstname :")#i declare a variable to a
+b= input("what is your name :")#i declare a variable to a
+
+c = a[0]; d= a[-1]; e = b[0]; f = b[-1]#i take back first and last letter of name and fistname
+print("initiale {}{}".format(c[0].upper(), d[-1].upper()))#display letters select in upercase
+print("init {}{}".format(e,f).upper())#display letters in upercase
+print("initiale nom prenom {}{}{}{}".format(c,d,e,f).upper())#display letters select in nam and fistname in upercase
+
+
+age = input("how old are you:")# i declare a variable age
+ages = float(age)#i indcate age is eventually a float number
+agees =(ages/33)#i declare agees is agees is ages/33
+print(int(agees))#i display agees in integer

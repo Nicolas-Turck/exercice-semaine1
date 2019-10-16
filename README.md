@@ -22,3 +22,5 @@ exercise 2: "calculate my age"
 exercise 3: "problem of shoes"
 
 exercise 4: "python calculator"
+
+exercise 5: "work with property"
