@@ -16,3 +16,5 @@ exercice 6: "lowercase and uppercase"
 part 2:
 
 exercices : "False or True"
+
+exercices 2: "calculate my age"
